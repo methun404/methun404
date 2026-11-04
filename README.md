@@ -1,6 +1,6 @@
 <!-- Put this file in a NEW public repo named exactly: methun12  (same as your username). It will show on your profile. -->
 
-# Hi, I'm Mithun 👋
+# Hi, I'm Methun 👋
 
 > Coding since **2020**. Not for a job title, but because I enjoy building things.
 
@@ -37,6 +37,15 @@ I build software to **solve real problems**: first my own, then other people's. 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🏅 Badges & certifications
+
+<!-- TODO: replace "Credly badge" with its real name (open the badge page to check). -->
+<!-- TODO: add your public Google Developer Program profile link, e.g. https://developers.google.com/profile/u/YOUR_USERNAME -->
+- 🎖️ [Credly badge](https://www.credly.com/badges/1d49ea8f-9fb9-4550-bef9-d471e0d07c14): verified digital badge
+- ☁️ **Google Cloud Innovators Plus**: Google Developer Program
+- 📱 **Install Android Studio**: Google Developer Program Android badge
+- 👤 **Google Developer Profile created**: Google Developer Program
 
 ## 🚀 Featured projects
 
