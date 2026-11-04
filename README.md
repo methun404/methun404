@@ -44,8 +44,8 @@ I build software to **solve real problems**: first my own, then other people's. 
 <!-- TODO: add your public Google Developer Program profile link, e.g. https://developers.google.com/profile/u/YOUR_USERNAME -->
 - 🎖️ [Credly badge](https://www.credly.com/badges/1d49ea8f-9fb9-4550-bef9-d471e0d07c14): verified digital badge
 - ☁️ **Google Cloud Innovators Plus**: Google Developer Program
-- 📱 **Install Android Studio**: Google Developer Program Android badge
-- 👤 **Google Developer Profile created**: Google Developer Program
+- 📱 **Android Studio**: Google Developer Program Android badge
+- 👤 **Google Developer Profile**: Google Developer Program
 
 ## 🚀 Featured projects
 
